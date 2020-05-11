@@ -1,0 +1,8 @@
+{
+"data": [
+{"name":"nameA","surname":"surnameA","age":"10","sex":"m"},
+{"name":"nameB","surname":"surnameB","age":"15","sex":"f"},
+{"name":"nameC","surname":"surnameC","age":"5","sex":"f"},
+{"name":"nameD","surname":"surnameD","age":"80","sex":"m"},
+]
+}
